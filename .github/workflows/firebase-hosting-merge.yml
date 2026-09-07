@@ -13,4 +13,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_ALSAYEGH_3D562 }}'
           channelId: live
-          projectId: alsayegh-3d562
+          projectId: halwadeertna
